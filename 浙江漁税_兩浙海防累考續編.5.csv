@@ -1,0 +1,11 @@
+FisheryCN,FisheryEN,則例,ShipType,船稅,漁稅,鹽稅_1555,鹽稅_1570,旗銀,All in taels (兩）
+黃魚,Yellow croaker,大雙桅船,Large dual-mast,4.2,3,0.6,2.4,0.3,
+黃魚,Yellow croaker,中雙桅船,Medium dual-mast,2.8,2,0.4,1.2,0.2,
+黃魚,Yellow croaker,單桅船,Single-mast,1.68,1.2,0.24,0.6,0.1,
+黃魚,Yellow croaker,尖船 對桅船,Narrow or slant-masted,1.11,0.8,0.16,0.48,0.05,
+黃魚,Yellow croaker,（嚴-口口）（舟+堂）船,?,0.7,0.5,0.1,,0.05,
+近港不捕黃魚止捕魚蝦柴鹿艚網小船,"Near port fish, shrimp, firewood, deer",艚網小船,Skiff or small craft,0.3,,0.01,,0.01,
+近港不捕黃魚止捕魚蝦柴鹿,"Near port fish, shrimp, firewood, deer",河條溪船,River craft,0.3,0.3,0.24,,0.03,
+採捕墨魚紫菜泥螺等項海味,"Cuttlefish, seaweed, conch",對桅尖船,Narrow or slant-masted,1.11,,1.16,,,
+採捕墨魚紫菜泥螺等項海味,"Cuttlefish, seaweed, conch",嚴-口口）（舟+堂）船,?,0.7,,0.1,,,
+採捕墨魚紫菜泥螺等項海味,"Cuttlefish, seaweed, conch",河條溪船,River craft,0.2,,0.06,,,
