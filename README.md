@@ -8,4 +8,9 @@ Data_Source.vol.csv
 
 For example:
 
-河泊所_大明會典.36.csv contains data on 河泊所 (mooring stations) from the Da Ming huidian 大明會典 vol. 36.
+河泊所_大明會典.36.csv contains data on 河泊所 (mooring stations) from the Da Ming huidian 大明會典 vol. 36
+
+
+Files:
+
+河泊所_大明會典.36.csv  status, names, locations, and closure dates (when applicable) of mooring stations (河泊所)
